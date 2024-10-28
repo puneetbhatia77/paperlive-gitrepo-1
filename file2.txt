@@ -1,1 +1,1 @@
-This is my new file2.
+This is my new file2 modified by master.
