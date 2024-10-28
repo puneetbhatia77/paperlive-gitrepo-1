@@ -2,3 +2,4 @@ Added first line by github.
 This is my new file2 modified by master.
 Added new line by github user.
 Added last line by me.
+Added fifth line by github.
