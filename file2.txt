@@ -1,1 +1,2 @@
 This is my new file2 modified by master.
+Added new line by github user.
